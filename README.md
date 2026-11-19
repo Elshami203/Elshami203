@@ -1,57 +1,83 @@
-<h1 align="center">Hi 👋, I'm Ahmed Elshami</h1>
-<h3 align="center">🚀 Next.js & Full-Stack JavaScript Developer</h3>
+# Hi, I'm Ahmed Alshami 👋
 
-<p align="center">
-  Passionate about building modern, fast, and scalable web applications using <b>Next.js</b>, <b>React</b>, and <b>Node.js</b>.
-  <br />
-  I love turning ideas into reality through clean code and seamless user experiences.
-</p>
+### Junior Software Engineer | Backend Development
 
----
+Computer Science and Artificial Intelligence graduate from **Benha University (2025)** with a **Very Good** grade.
 
-### 🧠 About Me
-- 🔭 I’m currently working on **Full-Stack projects with Next.js + Node.js**
-- 🌱 I’m learning **Advanced Backend Development & API Design**
-- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB**
-- ⚡ Fun fact: I love building side projects & AI-powered web tools!
+I'm passionate about software engineering, backend development, and building reliable, scalable applications. I enjoy understanding how systems work under the hood, solving engineering problems, and continuously improving my technical skills.
+
+Currently, I'm focusing on strengthening my backend engineering skills through structured learning, hands-on practice, and software engineering fundamentals.
 
 ---
 
-### 🛠️ Tech Stack
-**Frontend:**  
-`Next.js` | `React.js` | `TypeScript` | `Tailwind CSS` | `HTML5` | `CSS3`
+## 🚀 Technical Skills
 
-**Backend:**  
-`Node.js` | `Express.js` | `MongoDB` | `RESTful APIs`
+### Programming Languages
+- JavaScript
+- TypeScript
+- C++
+- Python
+- SQL
 
-**Tools & Others:**  
-`Git` | `GitHub` | `VS Code` | `Postman` | `Vercel` | `Render`
+### Backend Development
+- Node.js
+- Express.js
+- RESTful APIs
+
+### Databases
+- MongoDB
+- PostgreSQL
+- Database Design
+- SQL Fundamentals
+
+### Software Engineering Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management
+- System Design Fundamentals
+- Authentication & Authorization
+- Problem Solving
+
+### Tools & Technologies
+- Git & GitHub
+- Docker
+- Redis
 
 ---
 
-### 🚀 My Projects
-- 🌐 [E-Learning Platform](#) – Full-stack platform using **Next.js + MongoDB**
-- 💬 [Real-time Chat App](#) – Built with **React + Node.js + Socket.io**
-- 💼 [Portfolio Generator AI](#) – Web app that creates CVs using **AI & Next.js**
-- 📊 [Admin Dashboard](#) – Responsive dashboard with charts & analytics
+## 📚 Currently Learning
 
-*(Replace # with real repo links)*
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elshami203&show_icons=true&theme=tokyonight" alt="Elshami203" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elshami203&theme=tokyonight" alt="Elshami203" />
-</p>
+- Backend Engineering with Node.js
+- Software Architecture & Design Patterns
+- Database Engineering
+- System Design
+- Cloud Computing
+- Scalable Backend Systems
 
 ---
 
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/ahmed-elshami" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:ahmedelshami203@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## 🧠 Problem Solving
+
+- Solved **75+ problems on LeetCode**.
+- Practicing Data Structures and Algorithms.
+- Continuously improving problem-solving and analytical skills.
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Computers and Artificial Intelligence**
+
+Benha University — 2025
+
+Grade: Very Good
+
+---
+
+## 🤝 Let's Connect
+
+- GitHub: [@Elshami203](https://github.com/Elshami203)
+- LinkedIn: [Ahmed Alshami](https://www.linkedin.com/in/ahmed-alshami-77821724b/)
+
+I'm open to Junior Software Engineer and Junior Backend Engineer opportunities, and always interested in connecting with developers and engineering teams.
+
